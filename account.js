@@ -6,7 +6,7 @@ var website_name = "Akhir top up ";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/akhirhere33";
 
 // =======================================================
 // TELEGRAM GROUP LINK
